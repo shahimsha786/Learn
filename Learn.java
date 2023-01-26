@@ -5,8 +5,8 @@ public class Learn {
 	}
 	public static void main(String[] args) {
 		Learn add2=new Learn();
-		int z=add2.add2(4, 7);
-		System.out.println("addition of two numbers is  "+z);
+		int z=add2.add2(525, 589);
+		System.out.println("multiplication of two numbers is  "+z);
 
 	}
 
