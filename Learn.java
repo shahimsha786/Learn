@@ -1,5 +1,3 @@
-package com.add;
-
 public class Learn {
 
 	public int add2(int x, int y) {
